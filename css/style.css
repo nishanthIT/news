@@ -1,0 +1,22 @@
+
+body{
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.card-fuc{
+    background-color: #FFEA00;
+}
+.card-hed{
+  margin-top: -10px
+}
+
+nav{
+  width: 100%;
+}
+.cursole1{
+  background-color: #1589FF;
+}
+#breaking-text{
+  color: black;
+  background-color: red;
+}
